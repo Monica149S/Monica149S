@@ -1,3 +1,4 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&section=header
 <h1 align="center">Hola 👋, soy Mónica Quesada M.</h1>
 <h3 align="center">Un apasionado desarrollador frontend de Costa Rica</h3>
 
